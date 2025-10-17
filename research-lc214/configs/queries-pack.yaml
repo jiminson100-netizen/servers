@@ -1,0 +1,11 @@
+A1_oficiais:
+  - '"Lei Complementar nº 214, de 16 de janeiro de 2025" site:senado.leg.br'
+  - '(LC 214/2025) (IBS OR CBS OR "Imposto Seletivo") site:gov.br fazenda'
+  - '"Mensagem de veto" (LC 214) site:gov.br fazenda'
+
+A2_cronograma:
+  - '(cronograma OR transição OR implementação) (LC 214) site:sefaz.*.gov.br'
+  - '"documentos fiscais eletrônicos" (notas técnicas) (IBS OR CBS) site:svrs.rs.gov.br'
+
+A3_especificos_beneficios:
+  - '(isenção OR redução de alíquotas) (IBS OR CBS) (PcD OR medicamentos OR educação) site:gov.br'
